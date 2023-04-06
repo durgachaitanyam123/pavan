@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 i have upload the file
 file is uploaded
+=======
+123456
+file created
+>>>>>>> a0ebe4726c92c9e5f86660467baf27eee40bf392
